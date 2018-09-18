@@ -9,7 +9,7 @@ ___
 - [http://madhuvalluri.com]
 
 ___
-## AceNewsReader
+## 3.AceNewsReader
 - Developed using C#, ASP.net core MVC (restful API), Python and SQL Server
 - [http://forexnewsportals.com]
 ![alt text][anr]
